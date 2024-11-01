@@ -22,5 +22,5 @@ For extra fun, you can try to make a realistic lego technic guitar. You can base
 https://www.lego.com/cdn/product-assets/product.bi.additional.extra.pdf/31313_X_EL3CTRIC%20GUITAR.pdf
 
 **Caveats:**
-- cpufreq overclocking is NOT required.
+- cpufreq overclocking is **NOT** required.
 - USB can be used instead of WIFI but it requires changes in the code.
