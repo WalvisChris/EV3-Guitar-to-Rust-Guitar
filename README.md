@@ -1,3 +1,6 @@
+# EV3-Guitar-to-Rust-Guitar
+Youtube showcase cooming soon.
+
 # Instructions
 1) Install the ev3dev2 firmware to the EV3 Brick: https://www.ev3dev.org/docs/getting-started/
 2) Connect EV3 Brick to the same wifi network as your computer.
