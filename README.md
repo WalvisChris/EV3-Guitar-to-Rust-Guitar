@@ -1,6 +1,7 @@
 # EV3-Guitar-to-Rust-Guitar
 The game and webcam are recorded at the same time:
-https://github.com/user-attachments/assets/a256a5a8-0f6b-4b82-92fa-eecd993d42cc
+
+https://github.com/user-attachments/assets/2a3a5cef-5837-4f2e-8e11-b2943b3b532e
 
 # Instructions
 1) Install the ev3dev2 firmware to the EV3 Brick: https://www.ev3dev.org/docs/getting-started/
