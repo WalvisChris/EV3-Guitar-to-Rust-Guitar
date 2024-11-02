@@ -1,4 +1,5 @@
 # EV3-Guitar-to-Rust-Guitar
+The game and webcam are recorded at the same time:
 https://github.com/user-attachments/assets/a256a5a8-0f6b-4b82-92fa-eecd993d42cc
 
 # Instructions
